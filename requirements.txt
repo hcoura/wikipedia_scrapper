@@ -1,5 +1,0 @@
-jupyter
-notebook
-lxml
-scrapy
-requests
